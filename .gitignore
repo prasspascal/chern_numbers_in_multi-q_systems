@@ -1,0 +1,8 @@
+# data sets
+*.npy
+
+# figures
+*.png
+
+# system
+*.DS_Store

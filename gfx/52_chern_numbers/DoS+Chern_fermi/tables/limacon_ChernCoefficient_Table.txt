@@ -1,0 +1,8 @@
+\begin{tabular}{lrrrrrr}
+\toprule
+        $n_J$ &  Gap {\Large\textcolor[rgb]{0.050383,0.029803,0.527975}{\ensuremath\bullet}} &  Gap {\Large\textcolor[rgb]{0.417642,0.000564,0.658390}{\ensuremath\bullet}} &  Gap {\Large\textcolor[rgb]{0.692840,0.165141,0.564522}{\ensuremath\bullet}} &  Gap {\Large\textcolor[rgb]{0.881443,0.392529,0.383229}{\ensuremath\bullet}} &  Gap {\Large\textcolor[rgb]{0.988260,0.652325,0.211364}{\ensuremath\bullet}} &  Gap {\Large\textcolor[rgb]{0.940015,0.975158,0.131326}{\ensuremath\bullet}} \\
+\midrule
+$n_\emptyset$ &                            $\phantom{-}0{\color{gray} +3.5 \times 10^{-11}}$ &                            $\phantom{-}1{\color{gray} +9.1 \times 10^{-13}}$ &                            $\phantom{-}2{\color{gray} -3.4 \times 10^{-11}}$ &                            $\phantom{-}1{\color{gray} +3.6 \times 10^{-10}}$ &                            $\phantom{-}1{\color{gray} -4.9 \times 10^{-13}}$ &                            $\phantom{-}1{\color{gray} -3.6 \times 10^{-10}}$ \\
+ $n_{u_1t_1}$ &                            $\phantom{-}1{\color{gray} -3.2 \times 10^{-10}}$ &                            $\phantom{-}0{\color{gray} -8.3 \times 10^{-12}}$ &                                      $-1{\color{gray} +3.1 \times 10^{-10}}$ &                            $-1{\color{gray} -1.4 \times 10^{-9\phantom{0}}}$ &                            $\phantom{-}0{\color{gray} +1.9 \times 10^{-12}}$ &                  $\phantom{-}1{\color{gray} +1.4 \times 10^{-9\phantom{0}}}$ \\
+\bottomrule
+\end{tabular}

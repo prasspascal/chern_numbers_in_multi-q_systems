@@ -1,0 +1,8 @@
+\begin{tabular}{lrrrrrr}
+\toprule
+        $Ch_J$ &  Gap {\Large\textcolor[rgb]{0.050383,0.029803,0.527975}{\ensuremath\bullet}} &  Gap {\Large\textcolor[rgb]{0.417642,0.000564,0.658390}{\ensuremath\bullet}} &  Gap {\Large\textcolor[rgb]{0.692840,0.165141,0.564522}{\ensuremath\bullet}} &  Gap {\Large\textcolor[rgb]{0.881443,0.392529,0.383229}{\ensuremath\bullet}} &  Gap {\Large\textcolor[rgb]{0.988260,0.652325,0.211364}{\ensuremath\bullet}} &  Gap {\Large\textcolor[rgb]{0.940015,0.975158,0.131326}{\ensuremath\bullet}} \\
+\midrule
+$Ch_\emptyset$ &                                                                   0.10987996 &                                                                   1.00000000 &                                                                   1.89012004 &                                                                   0.74299785 &                                                                   1.00000000 &                                                                   1.25700215 \\
+ $Ch_{u_1t_1}$ &                                                                   1.00000000 &                                                                  -0.00000000 &                                                                  -1.00000000 &                                                                  -1.00000000 &                                                                   0.00000000 &                                                                   1.00000000 \\
+\bottomrule
+\end{tabular}

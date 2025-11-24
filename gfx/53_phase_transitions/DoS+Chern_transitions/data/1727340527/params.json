@@ -1,0 +1,1 @@
+{"texture": "sin", "system_sizes": 57, "q": 0.17543859649122806, "flux": 0.0, "t": -1, "m": 5, "n_shift": 1000, "min_shift": 0.0, "max_shift": 3.141592653589793, "mag": 0.25, "phi": [4.459708725242611, 4.459708725242611], "save_spec": true, "tau1tau2": true, "u1u2": true, "tau1tau2u1u2": true, "morb": true, "ids": 1.030932594644506, "delta": 1e-05, "eta": 0}
