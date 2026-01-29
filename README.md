@@ -2,6 +2,10 @@
 
 ### Code Base for the PhD Thesis by Pascal Jakob Alexander Praß
 
+*Institute of Physics, Johannes Gutenberg University Mainz, 55099 Mainz, Germany.*
+
+DOI: [10.25358/openscience-13983](https://openscience.ub.uni-mainz.de/handle/20.500.12030/14004)
+
 Date of defence: 29th of August 2025
 
 ## Abstract
@@ -22,4 +26,7 @@ This allows us to compare the orbital magnetisation with the texture and electro
 The repository is divided into two parts. 
 
 1. `/code` contains the Python source code which sets up the spin Hamiltonian, constructs the Fermi projections, and evaluates the Chern numbers and orbital magnetisation.
-2. `/gfx` contains both the data analysis and the data sets that went into the creation of the figures in the manuscript.
+2. `/gfx` contains both the data analysis and the data sets<sup>*</sup> that went into the creation of the figures in the manuscript.
+
+<sup>*</sup> To preserve storage space this repository only contains the folder structure for the data sets including their parameter and run time files.
+For access to the raw binary files please contact the corresponding author.
